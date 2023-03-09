@@ -4,18 +4,20 @@
     "url": "https://backend.aimages.ai/api/statistics/",
     "icon": "https://icons.duckduckgo.com/ip3/backend.aimages.ai.ico",
     "slug": "aimages-backend",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1104,
     "timeDay": 548,
     "timeWeek": 597,
     "timeMonth": 1104,
     "timeYear": 1104,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-09": 2
+    }
   },
   {
     "name": "Aimages Frontend",
@@ -40,7 +42,7 @@
     "url": "https://aimages.ai",
     "icon": "https://icons.duckduckgo.com/ip3/aimages.ai.ico",
     "slug": "aimages-landing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +53,8 @@
     "timeWeek": 360,
     "timeMonth": 337,
     "timeYear": 337,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-09": 0
+    }
   }
 ]
