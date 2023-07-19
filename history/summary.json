@@ -4,19 +4,19 @@
     "url": "https://backend.aimages.ai/api/statistics/",
     "icon": "https://icons.duckduckgo.com/ip3/backend.aimages.ai.ico",
     "slug": "web-app-backend",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 545,
-    "timeDay": 522,
-    "timeWeek": 545,
-    "timeMonth": 545,
-    "timeYear": 545,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 546,
+    "timeDay": 539,
+    "timeWeek": 546,
+    "timeMonth": 546,
+    "timeYear": 546,
     "dailyMinutesDown": {
-      "2023-07-19": 1
+      "2023-07-19": 11
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://tensorpix.ai",
     "icon": "https://icons.duckduckgo.com/ip3/tensorpix.ai.ico",
     "slug": "landing",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4291,
-    "timeDay": 13234,
-    "timeWeek": 4291,
-    "timeMonth": 4291,
-    "timeYear": 4291,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 3979,
+    "timeDay": 9317,
+    "timeWeek": 3979,
+    "timeMonth": 3979,
+    "timeYear": 3979,
     "dailyMinutesDown": {
-      "2023-07-19": 0
+      "2023-07-19": 10
     }
   },
   {
