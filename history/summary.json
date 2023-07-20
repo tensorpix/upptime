@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/backend.aimages.ai.ico",
     "slug": "web-app-backend",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 546,
-    "timeDay": 539,
-    "timeWeek": 546,
-    "timeMonth": 546,
-    "timeYear": 546,
-    "dailyMinutesDown": {
-      "2023-07-19": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 541,
+    "timeDay": 526,
+    "timeWeek": 541,
+    "timeMonth": 541,
+    "timeYear": 541,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Web app Frontend",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 215,
-    "timeDay": 219,
-    "timeWeek": 215,
-    "timeMonth": 215,
-    "timeYear": 215,
+    "time": 220,
+    "timeDay": 254,
+    "timeWeek": 220,
+    "timeMonth": 220,
+    "timeYear": 220,
     "dailyMinutesDown": {}
   },
   {
@@ -43,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/tensorpix.ai.ico",
     "slug": "landing",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 3979,
-    "timeDay": 9317,
-    "timeWeek": 3979,
-    "timeMonth": 3979,
-    "timeYear": 3979,
-    "dailyMinutesDown": {
-      "2023-07-19": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 3714,
+    "timeDay": 9335,
+    "timeWeek": 3714,
+    "timeMonth": 3714,
+    "timeYear": 3714,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Strapi CMS",
@@ -68,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 625,
-    "timeDay": 576,
-    "timeWeek": 625,
-    "timeMonth": 625,
-    "timeYear": 625,
+    "time": 624,
+    "timeDay": 618,
+    "timeWeek": 624,
+    "timeMonth": 624,
+    "timeYear": 624,
     "dailyMinutesDown": {}
   }
 ]
