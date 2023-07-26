@@ -24,9 +24,9 @@
     "url": "https://app.tensorpix.ai",
     "icon": "https://icons.duckduckgo.com/ip3/app.tensorpix.ai.ico",
     "slug": "web-app-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 192,
     "timeMonth": 204,
     "timeYear": 204,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-26": 0
+    }
   },
   {
     "name": "Landing",
@@ -61,18 +63,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cms.tensorpix.ai.ico",
     "slug": "strapi-cms",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 585,
     "timeDay": 475,
     "timeWeek": 551,
     "timeMonth": 585,
     "timeYear": 585,
-    "dailyMinutesDown": {
-      "2023-07-26": 12
-    }
+    "dailyMinutesDown": {}
   }
 ]
