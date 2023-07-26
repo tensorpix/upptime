@@ -6,15 +6,15 @@
     "slug": "web-app-backend",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "98.90%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 591,
-    "timeDay": 549,
-    "timeWeek": 616,
-    "timeMonth": 591,
-    "timeYear": 591,
+    "time": 580,
+    "timeDay": 400,
+    "timeWeek": 604,
+    "timeMonth": 580,
+    "timeYear": 580,
     "dailyMinutesDown": {
       "2023-07-24": 16
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 209,
-    "timeDay": 147,
-    "timeWeek": 204,
-    "timeMonth": 209,
-    "timeYear": 209,
+    "time": 204,
+    "timeDay": 137,
+    "timeWeek": 192,
+    "timeMonth": 204,
+    "timeYear": 204,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2873,
-    "timeDay": 1202,
-    "timeWeek": 3916,
-    "timeMonth": 2873,
-    "timeYear": 2873,
+    "time": 2763,
+    "timeDay": 1107,
+    "timeWeek": 3897,
+    "timeMonth": 2763,
+    "timeYear": 2763,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 602,
-    "timeDay": 574,
-    "timeWeek": 576,
-    "timeMonth": 602,
-    "timeYear": 602,
+    "time": 594,
+    "timeDay": 491,
+    "timeWeek": 564,
+    "timeMonth": 594,
+    "timeYear": 594,
     "dailyMinutesDown": {}
   }
 ]
