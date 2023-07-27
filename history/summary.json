@@ -10,11 +10,11 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 580,
-    "timeDay": 400,
-    "timeWeek": 604,
-    "timeMonth": 580,
-    "timeYear": 580,
+    "time": 578,
+    "timeDay": 557,
+    "timeWeek": 616,
+    "timeMonth": 578,
+    "timeYear": 578,
     "dailyMinutesDown": {
       "2023-07-24": 16
     }
@@ -25,19 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.tensorpix.ai.ico",
     "slug": "web-app-frontend",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 199,
-    "timeDay": 135,
-    "timeWeek": 185,
-    "timeMonth": 199,
-    "timeYear": 199,
-    "dailyMinutesDown": {
-      "2023-07-26": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 198,
+    "timeDay": 161,
+    "timeWeek": 177,
+    "timeMonth": 198,
+    "timeYear": 198,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Landing",
@@ -50,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2763,
-    "timeDay": 1107,
-    "timeWeek": 3897,
-    "timeMonth": 2763,
-    "timeYear": 2763,
+    "time": 2698,
+    "timeDay": 1663,
+    "timeWeek": 1247,
+    "timeMonth": 2698,
+    "timeYear": 2698,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 585,
-    "timeDay": 475,
-    "timeWeek": 551,
-    "timeMonth": 585,
-    "timeYear": 585,
+    "time": 581,
+    "timeDay": 490,
+    "timeWeek": 539,
+    "timeMonth": 581,
+    "timeYear": 581,
     "dailyMinutesDown": {}
   }
 ]
