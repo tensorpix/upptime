@@ -42,19 +42,19 @@
     "url": "https://tensorpix.ai",
     "icon": "https://icons.duckduckgo.com/ip3/tensorpix.ai.ico",
     "slug": "landing",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4470,
-    "timeDay": 13392,
-    "timeWeek": 6151,
-    "timeMonth": 4720,
-    "timeYear": 4470,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 4433,
+    "timeDay": 9187,
+    "timeWeek": 5662,
+    "timeMonth": 4628,
+    "timeYear": 4433,
     "dailyMinutesDown": {
-      "2023-09-24": 0
+      "2023-09-24": 10
     }
   },
   {
