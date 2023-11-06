@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Web App Backend
-    url: https://backend.aimages.ai/api/statistics/
+    url: https://backend.tensorpix.ai/api/statistics/
   - name: Web app Frontend
     url: https://app.tensorpix.ai
   - name: Landing
