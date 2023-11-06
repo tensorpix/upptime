@@ -1,7 +1,7 @@
-url: https://backend.aimages.ai/api/statistics/
+url: https://backend.tensorpix.ai/api/statistics/
 status: up
 code: 200
-responseTime: 499
-lastUpdated: 2023-11-05T23:04:18.285Z
+responseTime: 360
+lastUpdated: 2023-11-06T11:23:05.549Z
 startTime: 2023-07-13T07:17:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
