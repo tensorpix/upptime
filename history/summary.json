@@ -1,8 +1,8 @@
 [
   {
     "name": "Web App Backend",
-    "url": "https://backend.aimages.ai/api/statistics/",
-    "icon": "https://icons.duckduckgo.com/ip3/backend.aimages.ai.ico",
+    "url": "https://backend.tensorpix.ai/api/statistics/",
+    "icon": "https://icons.duckduckgo.com/ip3/backend.tensorpix.ai.ico",
     "slug": "web-app-backend",
     "status": "up",
     "uptime": "99.98%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 785,
-    "timeDay": 499,
-    "timeWeek": 460,
-    "timeMonth": 579,
-    "timeYear": 785,
+    "time": 782,
+    "timeDay": 430,
+    "timeWeek": 448,
+    "timeMonth": 572,
+    "timeYear": 782,
     "dailyMinutesDown": {
       "2023-09-30": 21,
       "2023-07-24": 16
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 191,
-    "timeDay": 225,
-    "timeWeek": 186,
+    "time": 190,
+    "timeDay": 192,
+    "timeWeek": 183,
     "timeMonth": 167,
-    "timeYear": 191,
+    "timeYear": 190,
     "dailyMinutesDown": {}
   },
   {
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 3993,
-    "timeDay": 2051,
-    "timeWeek": 1679,
-    "timeMonth": 2142,
-    "timeYear": 3993,
+    "time": 3978,
+    "timeDay": 1889,
+    "timeWeek": 1685,
+    "timeMonth": 2130,
+    "timeYear": 3978,
     "dailyMinutesDown": {
       "2023-09-30": 20
     }
@@ -69,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 554,
-    "timeDay": 561,
-    "timeWeek": 505,
-    "timeMonth": 532,
-    "timeYear": 554,
+    "time": 552,
+    "timeDay": 460,
+    "timeWeek": 487,
+    "timeMonth": 526,
+    "timeYear": 552,
     "dailyMinutesDown": {}
   }
 ]
