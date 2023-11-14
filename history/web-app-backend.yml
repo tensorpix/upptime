@@ -1,7 +1,7 @@
 url: https://backend.tensorpix.ai/api/statistics/
-status: down
-code: 502
-responseTime: 691
-lastUpdated: 2023-11-14T16:23:18.586Z
+status: up
+code: 200
+responseTime: 614
+lastUpdated: 2023-11-14T16:32:14.895Z
 startTime: 2023-07-13T07:17:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
