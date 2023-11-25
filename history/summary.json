@@ -4,10 +4,10 @@
     "url": "https://backend.tensorpix.ai/api/statistics/",
     "icon": "https://icons.duckduckgo.com/ip3/backend.tensorpix.ai.ico",
     "slug": "web-app-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 744,
@@ -16,6 +16,7 @@
     "timeMonth": 496,
     "timeYear": 744,
     "dailyMinutesDown": {
+      "2023-11-25": 1,
       "2023-09-30": 21,
       "2023-07-24": 16
     }
@@ -43,18 +44,19 @@
     "url": "https://tensorpix.ai",
     "icon": "https://icons.duckduckgo.com/ip3/tensorpix.ai.ico",
     "slug": "landing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 3977,
-    "timeDay": 442,
-    "timeWeek": 1561,
-    "timeMonth": 3080,
-    "timeYear": 3977,
+    "time": 4041,
+    "timeDay": 7836,
+    "timeWeek": 3270,
+    "timeMonth": 3408,
+    "timeYear": 4041,
     "dailyMinutesDown": {
+      "2023-11-25": 0,
       "2023-09-30": 20
     }
   },
