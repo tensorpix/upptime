@@ -5,20 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/backend.tensorpix.ai.ico",
     "slug": "web-app-backend",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "100.00%",
     "time": 726,
-    "timeDay": 615,
-    "timeWeek": 496,
-    "timeMonth": 499,
+    "timeDay": 635,
+    "timeWeek": 483,
+    "timeMonth": 504,
     "timeYear": 726,
-    "dailyMinutesDown": {
-      "2023-09-30": 21,
-      "2023-07-24": 16
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Web app Frontend",
@@ -32,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 185,
-    "timeDay": 180,
-    "timeWeek": 181,
-    "timeMonth": 162,
+    "timeDay": 140,
+    "timeWeek": 162,
+    "timeMonth": 163,
     "timeYear": 185,
     "dailyMinutesDown": {}
   },
@@ -44,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/tensorpix.ai.ico",
     "slug": "landing",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 3954,
-    "timeDay": 469,
-    "timeWeek": 3669,
-    "timeMonth": 3614,
-    "timeYear": 3954,
-    "dailyMinutesDown": {
-      "2023-09-30": 20
-    }
+    "uptimeYear": "100.00%",
+    "time": 3934,
+    "timeDay": 305,
+    "timeWeek": 2967,
+    "timeMonth": 3593,
+    "timeYear": 3934,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Strapi CMS",
@@ -69,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 547,
-    "timeDay": 577,
-    "timeWeek": 506,
-    "timeMonth": 517,
-    "timeYear": 547,
+    "time": 548,
+    "timeDay": 717,
+    "timeWeek": 519,
+    "timeMonth": 526,
+    "timeYear": 548,
     "dailyMinutesDown": {}
   }
 ]
