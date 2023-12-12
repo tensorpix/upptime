@@ -11,6 +11,8 @@ sites:
     url: https://tensorpix.ai
   - name: Strapi CMS
     url: https://cms.tensorpix.ai
+  - name: Companion Uploader
+    url: https://companion.tensorpix.ai
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
