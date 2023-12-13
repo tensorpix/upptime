@@ -76,17 +76,17 @@
     "url": "https://companion.tensorpix.ai",
     "icon": "https://icons.duckduckgo.com/ip3/companion.tensorpix.ai.ico",
     "slug": "companion-uploader",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 518,
-    "timeDay": 599,
-    "timeWeek": 518,
-    "timeMonth": 518,
-    "timeYear": 518,
+    "time": 543,
+    "timeDay": 605,
+    "timeWeek": 543,
+    "timeMonth": 543,
+    "timeYear": 543,
     "dailyMinutesDown": {}
   }
 ]
