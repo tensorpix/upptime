@@ -1,7 +1,7 @@
-url: https://hyperx.tensorpix.ai
-status: down
-code: 400
-responseTime: 359
-lastUpdated: 2023-12-19T14:46:03.332Z
+url: https://hyperx.tensorpix.ai/healthz
+status: up
+code: 200
+responseTime: 362
+lastUpdated: 2023-12-19T15:10:14.219Z
 startTime: 2023-12-19T14:46:02.734Z
 generator: Upptime <https://github.com/upptime/upptime>
