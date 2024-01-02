@@ -17,6 +17,8 @@ sites:
     url: https://hyperx.tensorpix.ai/healthz
   - name: Hyperx Preview Server
     url: https://preview.hyperx.tensorpix.ai/healthz
+  - name: VJS Production
+    url: https://vjs.tensorpix.ai/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
