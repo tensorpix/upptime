@@ -1,7 +1,7 @@
 url: https://vjs.tensorpix.ai/health
-status: up
-code: 200
-responseTime: 676
-lastUpdated: 2024-01-18T23:04:57.826Z
+status: down
+code: 500
+responseTime: 363
+lastUpdated: 2024-01-19T00:19:48.652Z
 startTime: 2024-01-02T09:24:32.999Z
 generator: Upptime <https://github.com/upptime/upptime>
