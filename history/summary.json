@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 397,
     "timeDay": 615,
-    "timeWeek": 426,
+    "timeWeek": 436,
     "timeMonth": 410,
     "timeYear": 397,
     "dailyMinutesDown": {}
@@ -130,17 +130,17 @@
     "url": "https://vjs.tensorpix.ai/health",
     "icon": "https://icons.duckduckgo.com/ip3/vjs.tensorpix.ai.ico",
     "slug": "vjs-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 488,
-    "timeDay": 545,
-    "timeWeek": 528,
-    "timeMonth": 492,
-    "timeYear": 488,
+    "time": 486,
+    "timeDay": 487,
+    "timeWeek": 515,
+    "timeMonth": 490,
+    "timeYear": 486,
     "dailyMinutesDown": {}
   }
 ]
