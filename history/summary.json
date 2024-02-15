@@ -148,17 +148,17 @@
     "url": "https://logs.tensorpix.ai/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/logs.tensorpix.ai.ico",
     "slug": "loki-logger",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 392,
-    "timeDay": 392,
-    "timeWeek": 392,
-    "timeMonth": 392,
-    "timeYear": 392,
+    "time": 443,
+    "timeDay": 443,
+    "timeWeek": 443,
+    "timeMonth": 443,
+    "timeYear": 443,
     "dailyMinutesDown": {}
   }
 ]
