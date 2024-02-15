@@ -1,7 +1,7 @@
 url: https://preview.hyperx.tensorpix.ai/healthz
-status: down
-code: 503
-responseTime: 352
-lastUpdated: 2024-02-14T23:04:28.910Z
+status: up
+code: 200
+responseTime: 478
+lastUpdated: 2024-02-15T09:50:24.440Z
 startTime: 2023-12-19T14:46:04.150Z
 generator: Upptime <https://github.com/upptime/upptime>
