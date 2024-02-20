@@ -18,7 +18,7 @@ sites:
   - name: Hyperx Preview Server
     url: https://preview.hyperx.tensorpix.ai/healthz
   - name: VJS Production
-    url: https://vjs.tensorpix.ai/health
+    url: https://vjs.tensorpix.ai/healthz
   - name: Loki Logger
     url: https://logs.tensorpix.ai/api/health
 
