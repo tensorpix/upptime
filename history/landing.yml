@@ -1,7 +1,7 @@
 url: https://tensorpix.ai
-status: up
-code: 200
-responseTime: 493
-lastUpdated: 2024-02-20T23:04:42.778Z
+status: down
+code: 500
+responseTime: 15253
+lastUpdated: 2024-02-21T06:50:35.029Z
 startTime: 2023-07-13T07:17:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
