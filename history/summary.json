@@ -103,7 +103,7 @@
     "time": 418,
     "timeDay": 342,
     "timeWeek": 392,
-    "timeMonth": 428,
+    "timeMonth": 430,
     "timeYear": 418,
     "dailyMinutesDown": {}
   },
@@ -148,7 +148,7 @@
     "url": "https://logs.tensorpix.ai/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/logs.tensorpix.ai.ico",
     "slug": "loki-logger",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
