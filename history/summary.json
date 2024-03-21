@@ -13,7 +13,7 @@
     "time": 1041,
     "timeDay": 560,
     "timeWeek": 489,
-    "timeMonth": 1593,
+    "timeMonth": 1635,
     "timeYear": 1041,
     "dailyMinutesDown": {}
   },
@@ -22,7 +22,7 @@
     "url": "https://app.tensorpix.ai",
     "icon": "https://icons.duckduckgo.com/ip3/app.tensorpix.ai.ico",
     "slug": "web-app-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -49,7 +49,7 @@
     "time": 3883,
     "timeDay": 5601,
     "timeWeek": 2234,
-    "timeMonth": 5507,
+    "timeMonth": 5360,
     "timeYear": 3883,
     "dailyMinutesDown": {}
   },
@@ -138,7 +138,7 @@
     "uptimeYear": "100.00%",
     "time": 484,
     "timeDay": 631,
-    "timeWeek": 527,
+    "timeWeek": 560,
     "timeMonth": 486,
     "timeYear": 484,
     "dailyMinutesDown": {}
