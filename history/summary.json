@@ -4,7 +4,7 @@
     "url": "https://backend.tensorpix.ai/api/statistics/",
     "icon": "https://icons.duckduckgo.com/ip3/backend.tensorpix.ai.ico",
     "slug": "web-app-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -13,7 +13,7 @@
     "time": 1039,
     "timeDay": 485,
     "timeWeek": 489,
-    "timeMonth": 1635,
+    "timeMonth": 1682,
     "timeYear": 1039,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 3895,
     "timeDay": 6508,
     "timeWeek": 3220,
-    "timeMonth": 5429,
+    "timeMonth": 5291,
     "timeYear": 3895,
     "dailyMinutesDown": {}
   },
